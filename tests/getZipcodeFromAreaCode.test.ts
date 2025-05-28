@@ -1,4 +1,4 @@
-import { getZipcodeFromAreaCode } from '../lib';
+import { getZipcodeFromAreaCode } from "..";
 
 test('gets zipcode from areacode', () => {
     const result = getZipcodeFromAreaCode(212);
