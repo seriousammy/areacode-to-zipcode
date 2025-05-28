@@ -1,11 +1,15 @@
 {
   "name": "areacode-to-zipcode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translate area codes to zip codes. A utility for looking up postal codes in the US.",
   "main": "index.ts",
   "scripts": {
     "build": "tsup",
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:seriousammy/areacode-to-zipcode.git"
   },
   "keywords": [
     "area code",
