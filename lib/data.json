@@ -1,0 +1,1792 @@
+{
+  "201": {
+    "city": "Bayonne",
+    "state": "NJ",
+    "zipCode": "07002"
+  },
+  "202": {
+    "city": "Washington",
+    "state": "DC",
+    "zipCode": "20001"
+  },
+  "203": {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zipCode": "06604"
+  },
+  "205": {
+    "city": "Birmingham",
+    "state": "AL",
+    "zipCode": "35203"
+  },
+  "206": {
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98101"
+  },
+  "207": {
+    "city": "Portland",
+    "state": "ME",
+    "zipCode": "04101"
+  },
+  "208": {
+    "city": "Boise",
+    "state": "ID",
+    "zipCode": "83702"
+  },
+  "209": {
+    "city": "Lodi",
+    "state": "CA",
+    "zipCode": "95240"
+  },
+  "210": {
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78205"
+  },
+  "212": {
+    "city": "New York City",
+    "state": "NY",
+    "zipCode": "10024"
+  },
+  "213": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90015"
+  },
+  "214": {
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75201"
+  },
+  "215": {
+    "city": "Levittown",
+    "state": "PA",
+    "zipCode": "19054"
+  },
+  "216": {
+    "city": "Cleveland",
+    "state": "OH",
+    "zipCode": "44101"
+  },
+  "217": {
+    "city": "Champaign",
+    "state": "IL",
+    "zipCode": "61820"
+  },
+  "218": {
+    "city": "Duluth",
+    "state": "MN",
+    "zipCode": "55802"
+  },
+  "219": {
+    "city": "Gary",
+    "state": "IN",
+    "zipCode": "46402"
+  },
+  "220": {
+    "city": "Athens",
+    "state": "OH",
+    "zipCode": "45701"
+  },
+  "223": {
+    "city": "Lancaster",
+    "state": "PA",
+    "zipCode": "17602"
+  },
+  "224": {
+    "city": "Arlington Heights",
+    "state": "IL",
+    "zipCode": "60004"
+  },
+  "225": {
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zipCode": "70801"
+  },
+  "227": {
+    "city": "Silver Spring",
+    "state": "MD",
+    "zipCode": "20901"
+  },
+  "228": {
+    "city": "Biloxi",
+    "state": "MS",
+    "zipCode": "39530"
+  },
+  "229": {
+    "city": "Albany",
+    "state": "GA",
+    "zipCode": "31701"
+  },
+  "231": {
+    "city": "Grant",
+    "state": "MI",
+    "zipCode": "49327"
+  },
+  "234": {
+    "city": "Akron",
+    "state": "OH",
+    "zipCode": "44301"
+  },
+  "239": {
+    "city": "Cape Coral",
+    "state": "FL",
+    "zipCode": "33904"
+  },
+  "240": {
+    "city": "Aspen Hill",
+    "state": "MD",
+    "zipCode": "20906"
+  },
+  "248": {
+    "city": "Farmington Hills",
+    "state": "MI",
+    "zipCode": "48331"
+  },
+  "251": {
+    "city": "Mobile",
+    "state": "AL",
+    "zipCode": "36601"
+  },
+  "252": {
+    "city": "Elizabeth City",
+    "state": "NC",
+    "zipCode": "27909"
+  },
+  "253": {
+    "city": "Kent",
+    "state": "WA",
+    "zipCode": "98030"
+  },
+  "254": {
+    "city": "Eastland",
+    "state": "TX",
+    "zipCode": "76448"
+  },
+  "256": {
+    "city": "Decatur",
+    "state": "AL",
+    "zipCode": "35601"
+  },
+  "260": {
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zipCode": "46802"
+  },
+  "262": {
+    "city": "Kenosha",
+    "state": "WI",
+    "zipCode": "53140"
+  },
+  "267": {
+    "city": "Levittown",
+    "state": "PA",
+    "zipCode": "19055"
+  },
+  "269": {
+    "city": "Allegan",
+    "state": "MI",
+    "zipCode": "49010"
+  },
+  "270": {
+    "city": "Bowling Green",
+    "state": "KY",
+    "zipCode": "42101"
+  },
+  "272": {
+    "city": "Back Mountain",
+    "state": "PA",
+    "zipCode": "18612"
+  },
+  "274": {
+    "city": "Green Bay",
+    "state": "WI",
+    "zipCode": "54301"
+  },
+  "276": {
+    "city": "Danville",
+    "state": "VA",
+    "zipCode": "24540"
+  },
+  "278": {
+    "city": "ann arbor",
+    "state": "MI",
+    "zipCode": "48103"
+  },
+  "279": {
+    "city": "Arden-Arcade",
+    "state": "CA",
+    "zipCode": "95825"
+  },
+  "281": {
+    "city": "Baytown",
+    "state": "TX",
+    "zipCode": "77520"
+  },
+  "283": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "zipCode": "45201"
+  },
+  "301": {
+    "city": "Aspen Hill",
+    "state": "MD",
+    "zipCode": "20906"
+  },
+  "302": {
+    "city": "Dover",
+    "state": "DE",
+    "zipCode": "19901"
+  },
+  "303": {
+    "city": "Aurora",
+    "state": "CO",
+    "zipCode": "80010"
+  },
+  "304": {
+    "city": "Charleston",
+    "state": "WV",
+    "zipCode": "25301"
+  },
+  "305": {
+    "city": "Miami",
+    "state": "FL",
+    "zipCode": "33101"
+  },
+  "307": {
+    "city": "Casper",
+    "state": "WY",
+    "zipCode": "82601"
+  },
+  "308": {
+    "city": "Kearney",
+    "state": "NE",
+    "zipCode": "68847"
+  },
+  "309": {
+    "city": "Bloomington",
+    "state": "IL",
+    "zipCode": "61701"
+  },
+  "310": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90001"
+  },
+  "312": {
+    "city": "Chicago",
+    "state": "IL",
+    "zipCode": "60601"
+  },
+  "313": {
+    "city": "Dearborn",
+    "state": "MI",
+    "zipCode": "48120"
+  },
+  "314": {
+    "city": "Florissant",
+    "state": "MO",
+    "zipCode": "63031"
+  },
+  "315": {
+    "city": "Syracuse",
+    "state": "NY",
+    "zipCode": "13201"
+  },
+  "316": {
+    "city": "Wichita",
+    "state": "KS",
+    "zipCode": "67201"
+  },
+  "317": {
+    "city": "Indianapolis",
+    "state": "IN",
+    "zipCode": "46201"
+  },
+  "318": {
+    "city": "Bossier City",
+    "state": "LA",
+    "zipCode": "71111"
+  },
+  "319": {
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zipCode": "52401"
+  },
+  "320": {
+    "city": "Alexandria",
+    "state": "MN",
+    "zipCode": "56308"
+  },
+  "321": {
+    "city": "Melbourne",
+    "state": "FL",
+    "zipCode": "32901"
+  },
+  "323": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90001"
+  },
+  "325": {
+    "city": "Abilene",
+    "state": "TX",
+    "zipCode": "79601"
+  },
+  "326": {
+    "city": "Dayton",
+    "state": "OH",
+    "zipCode": "45401"
+  },
+  "327": {
+    "city": "Jonesboro",
+    "state": "AR",
+    "zipCode": "72401"
+  },
+  "330": {
+    "city": "Akron",
+    "state": "OH",
+    "zipCode": "44301"
+  },
+  "331": {
+    "city": "Aurora",
+    "state": "IL",
+    "zipCode": "60505"
+  },
+  "332": {
+    "city": "Manhattan",
+    "state": "NY",
+    "zipCode": "10001"
+  },
+  "334": {
+    "city": "Auburn",
+    "state": "AL",
+    "zipCode": "36830"
+  },
+  "336": {
+    "city": "Greensboro",
+    "state": "NC",
+    "zipCode": "27401"
+  },
+  "337": {
+    "city": "Lafayette",
+    "state": "LA",
+    "zipCode": "70501"
+  },
+  "339": {
+    "city": "Lynn",
+    "state": "MA",
+    "zipCode": "01901"
+  },
+  "340": {
+    "city": "charlotte amalie",
+    "state": "VI",
+    "zipCode": "00802"
+  },
+  "341": {
+    "city": "Oakland",
+    "state": "CA",
+    "zipCode": "94601"
+  },
+  "346": {
+    "city": "Alvin",
+    "state": "TX",
+    "zipCode": "77511"
+  },
+  "347": {
+    "city": "Bronx",
+    "state": "NY",
+    "zipCode": "10451"
+  },
+  "351": {
+    "city": "Haverhill",
+    "state": "MA",
+    "zipCode": "01830"
+  },
+  "352": {
+    "city": "Gainesville",
+    "state": "FL",
+    "zipCode": "32601"
+  },
+  "360": {
+    "city": "Bellingham",
+    "state": "WA",
+    "zipCode": "98225"
+  },
+  "361": {
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zipCode": "78401"
+  },
+  "364": {
+    "city": "Owensboro",
+    "state": "KY",
+    "zipCode": "42301"
+  },
+  "369": {
+    "city": "santa rosa",
+    "state": "CA",
+    "zipCode": "95401"
+  },
+  "380": {
+    "city": "Columbus",
+    "state": "OH",
+    "zipCode": "43215"
+  },
+  "385": {
+    "city": "Ogden",
+    "state": "UT",
+    "zipCode": "84401"
+  },
+  "386": {
+    "city": "Daytona Beach",
+    "state": "FL",
+    "zipCode": "32114"
+  },
+  "401": {
+    "city": "Cranston",
+    "state": "RI",
+    "zipCode": "02920"
+  },
+  "402": {
+    "city": "Columbus",
+    "state": "NE",
+    "zipCode": "68601"
+  },
+  "404": {
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30301"
+  },
+  "405": {
+    "city": "Midwest City",
+    "state": "OK",
+    "zipCode": "73110"
+  },
+  "406": {
+    "city": "Billings",
+    "state": "MT",
+    "zipCode": "59101"
+  },
+  "407": {
+    "city": "Altamonte Springs",
+    "state": "FL",
+    "zipCode": "32701"
+  },
+  "408": {
+    "city": "Gilroy",
+    "state": "CA",
+    "zipCode": "95020"
+  },
+  "409": {
+    "city": "Beaumont",
+    "state": "TX",
+    "zipCode": "77701"
+  },
+  "410": {
+    "city": "Annapolis",
+    "state": "MD",
+    "zipCode": "21401"
+  },
+  "412": {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zipCode": "15201"
+  },
+  "413": {
+    "city": "Chicopee",
+    "state": "MA",
+    "zipCode": "01013"
+  },
+  "414": {
+    "city": "Milwaukee",
+    "state": "WI",
+    "zipCode": "53201"
+  },
+  "415": {
+    "city": "San Francisco",
+    "state": "CA",
+    "zipCode": "94101"
+  },
+  "417": {
+    "city": "Springfield",
+    "state": "MO",
+    "zipCode": "65801"
+  },
+  "419": {
+    "city": "Toledo",
+    "state": "OH",
+    "zipCode": "43601"
+  },
+  "423": {
+    "city": "Chattanooga",
+    "state": "TN",
+    "zipCode": "37401"
+  },
+  "424": {
+    "city": "Beverly Hills",
+    "state": "CA",
+    "zipCode": "90210"
+  },
+  "425": {
+    "city": "Bellevue",
+    "state": "WA",
+    "zipCode": "98004"
+  },
+  "430": {
+    "city": "Longview",
+    "state": "TX",
+    "zipCode": "75601"
+  },
+  "432": {
+    "city": "Midland",
+    "state": "TX",
+    "zipCode": "79701"
+  },
+  "434": {
+    "city": "Lynchburg",
+    "state": "VA",
+    "zipCode": "24501"
+  },
+  "435": {
+    "city": "Cedar City",
+    "state": "UT",
+    "zipCode": "84720"
+  },
+  "440": {
+    "city": "Cleveland",
+    "state": "OH",
+    "zipCode": "44101"
+  },
+  "442": {
+    "city": "Apple Valley",
+    "state": "CA",
+    "zipCode": "92307"
+  },
+  "443": {
+    "city": "Baltimore",
+    "state": "MD",
+    "zipCode": "21201"
+  },
+  "445": {
+    "city": "Philadelphia",
+    "state": "PA",
+    "zipCode": "19101"
+  },
+  "447": {
+    "city": "Champaign",
+    "state": "IL",
+    "zipCode": "61820"
+  },
+  "458": {
+    "city": "Eugene",
+    "state": "OR",
+    "zipCode": "97401"
+  },
+  "463": {
+    "city": "Carmel",
+    "state": "IN",
+    "zipCode": "46032"
+  },
+  "464": {
+    "city": "Cicero",
+    "state": "IL",
+    "zipCode": "60804"
+  },
+  "469": {
+    "city": "Carrollton",
+    "state": "TX",
+    "zipCode": "75006"
+  },
+  "470": {
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30301"
+  },
+  "475": {
+    "city": "Bridgeport",
+    "state": "CT",
+    "zipCode": "06601"
+  },
+  "478": {
+    "city": "Macon",
+    "state": "GA",
+    "zipCode": "31201"
+  },
+  "479": {
+    "city": "Fayetteville",
+    "state": "AR",
+    "zipCode": "72701"
+  },
+  "480": {
+    "city": "Chandler",
+    "state": "AZ",
+    "zipCode": "85224"
+  },
+  "484": {
+    "city": "Allentown",
+    "state": "PA",
+    "zipCode": "18101"
+  },
+  "501": {
+    "city": "Little Rock",
+    "state": "AR",
+    "zipCode": "72201"
+  },
+  "502": {
+    "city": "Louisville",
+    "state": "KY",
+    "zipCode": "40201"
+  },
+  "503": {
+    "city": "Beaver",
+    "state": "OR",
+    "zipCode": "97004"
+  },
+  "504": {
+    "city": "Kenner",
+    "state": "LA",
+    "zipCode": "70062"
+  },
+  "505": {
+    "city": "Albuquerque",
+    "state": "NM",
+    "zipCode": "87101"
+  },
+  "507": {
+    "city": "Austin",
+    "state": "MN",
+    "zipCode": "55912"
+  },
+  "508": {
+    "city": "Cambridge",
+    "state": "MA",
+    "zipCode": "02138"
+  },
+  "509": {
+    "city": "Kennewick",
+    "state": "WA",
+    "zipCode": "99336"
+  },
+  "510": {
+    "city": "Alameda",
+    "state": "CA",
+    "zipCode": "94501"
+  },
+  "512": {
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "78701"
+  },
+  "513": {
+    "city": "Cincinnati",
+    "state": "OH",
+    "zipCode": "45201"
+  },
+  "515": {
+    "city": "Ames",
+    "state": "IA",
+    "zipCode": "50010"
+  },
+  "516": {
+    "city": "Freeport",
+    "state": "NY",
+    "zipCode": "11520"
+  },
+  "517": {
+    "city": "Charlotte",
+    "state": "MI",
+    "zipCode": "48813"
+  },
+  "518": {
+    "city": "Albany",
+    "state": "NY",
+    "zipCode": "12201"
+  },
+  "520": {
+    "city": "Casas Adobes",
+    "state": "AZ",
+    "zipCode": "85701"
+  },
+  "530": {
+    "city": "Chico",
+    "state": "CA",
+    "zipCode": "95926"
+  },
+  "531": {
+    "city": "Omaha",
+    "state": "NE",
+    "zipCode": "68101"
+  },
+  "534": {
+    "city": "Eau Claire",
+    "state": "WI",
+    "zipCode": "54701"
+  },
+  "539": {
+    "city": "Bartlesville",
+    "state": "OK",
+    "zipCode": "74003"
+  },
+  "540": {
+    "city": "Blacksburg",
+    "state": "VA",
+    "zipCode": "24060"
+  },
+  "541": {
+    "city": "Bend",
+    "state": "OR",
+    "zipCode": "97701"
+  },
+  "551": {
+    "city": "Bayonne",
+    "state": "NJ",
+    "zipCode": "07002"
+  },
+  "557": {
+    "city": "St. Louis",
+    "state": "MO",
+    "zipCode": "63101"
+  },
+  "559": {
+    "city": "Clovis",
+    "state": "CA",
+    "zipCode": "93611"
+  },
+  "561": {
+    "city": "Boca Raton",
+    "state": "FL",
+    "zipCode": "33431"
+  },
+  "562": {
+    "city": "Bellflower",
+    "state": "CA",
+    "zipCode": "90706"
+  },
+  "563": {
+    "city": "Davenport",
+    "state": "IA",
+    "zipCode": "52801"
+  },
+  "564": {
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98101"
+  },
+  "567": {
+    "city": "Toledo",
+    "state": "OH",
+    "zipCode": "43601"
+  },
+  "570": {
+    "city": "Scranton",
+    "state": "PA",
+    "zipCode": "18501"
+  },
+  "571": {
+    "city": "Alexandria",
+    "state": "VA",
+    "zipCode": "22301"
+  },
+  "573": {
+    "city": "Columbia",
+    "state": "MO",
+    "zipCode": "65201"
+  },
+  "574": {
+    "city": "Elkhart",
+    "state": "IN",
+    "zipCode": "46514"
+  },
+  "575": {
+    "city": "Alamogordo",
+    "state": "NM",
+    "zipCode": "88310"
+  },
+  "580": {
+    "city": "Lawton",
+    "state": "OK",
+    "zipCode": "73501"
+  },
+  "585": {
+    "city": "Arcade",
+    "state": "NY",
+    "zipCode": "14009"
+  },
+  "586": {
+    "city": "Sterling Heights",
+    "state": "MI",
+    "zipCode": "48310"
+  },
+  "601": {
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zipCode": "39401"
+  },
+  "602": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "zipCode": "85001"
+  },
+  "603": {
+    "city": "Dover",
+    "state": "NH",
+    "zipCode": "03820"
+  },
+  "605": {
+    "city": "Rapid City",
+    "state": "SD",
+    "zipCode": "57701"
+  },
+  "606": {
+    "city": "Ashland",
+    "state": "KY",
+    "zipCode": "41101"
+  },
+  "607": {
+    "city": "Elmira",
+    "state": "NY",
+    "zipCode": "14901"
+  },
+  "608": {
+    "city": "Janesville",
+    "state": "WI",
+    "zipCode": "53545"
+  },
+  "609": {
+    "city": "Allentown",
+    "state": "NJ",
+    "zipCode": "08501"
+  },
+  "610": {
+    "city": "Allentown",
+    "state": "PA",
+    "zipCode": "18101"
+  },
+  "612": {
+    "city": "Minneapolis",
+    "state": "MN",
+    "zipCode": "55401"
+  },
+  "614": {
+    "city": "Columbus",
+    "state": "OH",
+    "zipCode": "43215"
+  },
+  "615": {
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zipCode": "37130"
+  },
+  "616": {
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zipCode": "49501"
+  },
+  "617": {
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02108"
+  },
+  "618": {
+    "city": "Alton",
+    "state": "IL",
+    "zipCode": "62002"
+  },
+  "619": {
+    "city": "Chula Vista",
+    "state": "CA",
+    "zipCode": "91910"
+  },
+  "620": {
+    "city": "Dodge City",
+    "state": "KS",
+    "zipCode": "67801"
+  },
+  "623": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "zipCode": "85001"
+  },
+  "626": {
+    "city": "Alhambra",
+    "state": "CA",
+    "zipCode": "91801"
+  },
+  "627": {
+    "city": "santa rosa",
+    "state": "CA",
+    "zipCode": "95401"
+  },
+  "628": {
+    "city": "San Francisco",
+    "state": "CA",
+    "zipCode": "94101"
+  },
+  "629": {
+    "city": "Brentwood",
+    "state": "TN",
+    "zipCode": "37027"
+  },
+  "630": {
+    "city": "Naperville",
+    "state": "IL",
+    "zipCode": "60540"
+  },
+  "631": {
+    "city": "Babylon",
+    "state": "NY",
+    "zipCode": "11702"
+  },
+  "636": {
+    "city": "St. Charles",
+    "state": "MO",
+    "zipCode": "63301"
+  },
+  "640": {
+    "city": "Allentown",
+    "state": "NJ",
+    "zipCode": "08501"
+  },
+  "641": {
+    "city": "Mason City",
+    "state": "IA",
+    "zipCode": "50401"
+  },
+  "646": {
+    "city": "New York City",
+    "state": "NY",
+    "zipCode": "10001"
+  },
+  "650": {
+    "city": "Daly City",
+    "state": "CA",
+    "zipCode": "94014"
+  },
+  "651": {
+    "city": "St. Paul",
+    "state": "MN",
+    "zipCode": "55101"
+  },
+  "657": {
+    "city": "Anaheim",
+    "state": "CA",
+    "zipCode": "92801"
+  },
+  "659": {
+    "city": "Birmingham",
+    "state": "AL",
+    "zipCode": "35201"
+  },
+  "660": {
+    "city": "Marshall",
+    "state": "MO",
+    "zipCode": "65340"
+  },
+  "661": {
+    "city": "Earlimart",
+    "state": "CA",
+    "zipCode": "93219"
+  },
+  "662": {
+    "city": "Starkville",
+    "state": "MS",
+    "zipCode": "39759"
+  },
+  "667": {
+    "city": "Baltimore",
+    "state": "MD",
+    "zipCode": "21201"
+  },
+  "669": {
+    "city": "San Jose",
+    "state": "CA",
+    "zipCode": "95101"
+  },
+  "670": {
+    "city": "saipan",
+    "state": "MP",
+    "zipCode": "96950"
+  },
+  "671": {
+    "city": "Hagatna",
+    "state": "GU",
+    "zipCode": "96910"
+  },
+  "678": {
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30301"
+  },
+  "679": {
+    "city": "Detroit",
+    "state": "MI",
+    "zipCode": "48201"
+  },
+  "680": {
+    "city": "Auburn",
+    "state": "NY",
+    "zipCode": "13021"
+  },
+  "681": {
+    "city": "Charleston",
+    "state": "WV",
+    "zipCode": "25301"
+  },
+  "682": {
+    "city": "Arlington",
+    "state": "TX",
+    "zipCode": "76010"
+  },
+  "684": {
+    "city": "Pago Pago",
+    "state": "AS",
+    "zipCode": "96799"
+  },
+  "689": {
+    "city": "Orlando",
+    "state": "FL",
+    "zipCode": "32801"
+  },
+  "701": {
+    "city": "Bismarck",
+    "state": "ND",
+    "zipCode": "58501"
+  },
+  "702": {
+    "city": "Henderson",
+    "state": "NV",
+    "zipCode": "89011"
+  },
+  "703": {
+    "city": "Alexandria",
+    "state": "VA",
+    "zipCode": "22301"
+  },
+  "704": {
+    "city": "Charlotte",
+    "state": "NC",
+    "zipCode": "28202"
+  },
+  "706": {
+    "city": "Athens",
+    "state": "GA",
+    "zipCode": "30601"
+  },
+  "707": {
+    "city": "Benicia",
+    "state": "CA",
+    "zipCode": "94510"
+  },
+  "708": {
+    "city": "Berwyn",
+    "state": "IL",
+    "zipCode": "60402"
+  },
+  "712": {
+    "city": "Council Bluffs",
+    "state": "IA",
+    "zipCode": "51501"
+  },
+  "713": {
+    "city": "Houston",
+    "state": "TX",
+    "zipCode": "77001"
+  },
+  "714": {
+    "city": "Anaheim",
+    "state": "CA",
+    "zipCode": null
+  },
+  "715": {
+    "city": "Chippewa Falls",
+    "state": "WI",
+    "zipCode": "54729"
+  },
+  "716": {
+    "city": "Cattaraugus",
+    "state": "NY",
+    "zipCode": "14719"
+  },
+  "717": {
+    "city": "Lancaster",
+    "state": "PA",
+    "zipCode": "17601"
+  },
+  "718": {
+    "city": "Bellerose",
+    "state": "NY",
+    "zipCode": "11426"
+  },
+  "719": {
+    "city": "Alamosa",
+    "state": "CO",
+    "zipCode": "81101"
+  },
+  "720": {
+    "city": "Boulder",
+    "state": "CO",
+    "zipCode": "80301"
+  },
+  "724": {
+    "city": "New Castle",
+    "state": "PA",
+    "zipCode": "16101"
+  },
+  "725": {
+    "city": "Henderson",
+    "state": "NV",
+    "zipCode": "89011"
+  },
+  "726": {
+    "city": "San Antonio",
+    "state": "TX",
+    "zipCode": "78201"
+  },
+  "727": {
+    "city": "Clearwater",
+    "state": "FL",
+    "zipCode": "33755"
+  },
+  "730": {
+    "city": "Alton",
+    "state": "IL",
+    "zipCode": "62002"
+  },
+  "731": {
+    "city": "Jackson",
+    "state": "TN",
+    "zipCode": "38301"
+  },
+  "732": {
+    "city": "Brick Township",
+    "state": "NJ",
+    "zipCode": "08723"
+  },
+  "734": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zipCode": "48103"
+  },
+  "737": {
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "73301"
+  },
+  "740": {
+    "city": "Athens",
+    "state": "OH",
+    "zipCode": "45701"
+  },
+  "743": {
+    "city": "Greensboro",
+    "state": "NC",
+    "zipCode": "27401"
+  },
+  "747": {
+    "city": "Burbank",
+    "state": "CA",
+    "zipCode": "91501"
+  },
+  "754": {
+    "city": "Coral Springs",
+    "state": "FL",
+    "zipCode": "33065"
+  },
+  "757": {
+    "city": "Chesapeake",
+    "state": "VA",
+    "zipCode": "23320"
+  },
+  "760": {
+    "city": "Apple Valley",
+    "state": "CA",
+    "zipCode": "92307"
+  },
+  "762": {
+    "city": "Athens",
+    "state": "GA",
+    "zipCode": "30601"
+  },
+  "763": {
+    "city": "Brooklyn Park",
+    "state": "MN",
+    "zipCode": "55443"
+  },
+  "765": {
+    "city": "Kokomo",
+    "state": "IN",
+    "zipCode": "46901"
+  },
+  "769": {
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zipCode": "39401"
+  },
+  "770": {
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30301"
+  },
+  "772": {
+    "city": "Port St. Lucie",
+    "state": "FL",
+    "zipCode": "34952"
+  },
+  "773": {
+    "city": "Chicago",
+    "state": "IL",
+    "zipCode": "60601"
+  },
+  "774": {
+    "city": "Brockton",
+    "state": "MA",
+    "zipCode": "02301"
+  },
+  "775": {
+    "city": "Carson City",
+    "state": "NV",
+    "zipCode": "89701"
+  },
+  "779": {
+    "city": "Joliet",
+    "state": "IL",
+    "zipCode": "60431"
+  },
+  "781": {
+    "city": "Lynn",
+    "state": "MA",
+    "zipCode": "01901"
+  },
+  "785": {
+    "city": "Abilene",
+    "state": "KS",
+    "zipCode": "67410"
+  },
+  "786": {
+    "city": "Hialeah",
+    "state": "FL",
+    "zipCode": "33010"
+  },
+  "800": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "801": {
+    "city": "Ogden",
+    "state": "UT",
+    "zipCode": "84401"
+  },
+  "802": {
+    "city": "Bennington",
+    "state": "VT",
+    "zipCode": "05201"
+  },
+  "803": {
+    "city": "Columbia",
+    "state": "SC",
+    "zipCode": "29201"
+  },
+  "804": {
+    "city": "Mechanicsville",
+    "state": "VA",
+    "zipCode": "23111"
+  },
+  "805": {
+    "city": "Camarillo",
+    "state": "CA",
+    "zipCode": "93010"
+  },
+  "806": {
+    "city": "Amarillo",
+    "state": "TX",
+    "zipCode": "79101"
+  },
+  "808": {
+    "city": "Honolulu",
+    "state": "HI",
+    "zipCode": "96801"
+  },
+  "810": {
+    "city": "Flint",
+    "state": "MI",
+    "zipCode": "48501"
+  },
+  "812": {
+    "city": "Bloomington",
+    "state": "IN",
+    "zipCode": "47401"
+  },
+  "813": {
+    "city": "Tampa",
+    "state": "FL",
+    "zipCode": "33601"
+  },
+  "814": {
+    "city": "Erie",
+    "state": "PA",
+    "zipCode": "16501"
+  },
+  "815": {
+    "city": "Joliet",
+    "state": "IL",
+    "zipCode": "60431"
+  },
+  "816": {
+    "city": "Kansas City",
+    "state": "MO",
+    "zipCode": "64101"
+  },
+  "817": {
+    "city": "Arlington",
+    "state": "TX",
+    "zipCode": "76010"
+  },
+  "818": {
+    "city": "Agoura Hills",
+    "state": "CA",
+    "zipCode": "91301"
+  },
+  "820": {
+    "city": "Camarillo",
+    "state": "CA",
+    "zipCode": "93010"
+  },
+  "822": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "828": {
+    "city": "Asheville",
+    "state": "NC",
+    "zipCode": "28801"
+  },
+  "830": {
+    "city": "Medina",
+    "state": "TX",
+    "zipCode": "78055"
+  },
+  "831": {
+    "city": "Salinas",
+    "state": "CA",
+    "zipCode": "93901"
+  },
+  "832": {
+    "city": "Baytown",
+    "state": "TX",
+    "zipCode": "77520"
+  },
+  "833": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "838": {
+    "city": "Albany",
+    "state": "NY",
+    "zipCode": "12201"
+  },
+  "839": {
+    "city": "Columbia",
+    "state": "SC",
+    "zipCode": "29201"
+  },
+  "843": {
+    "city": "Charleston",
+    "state": "SC",
+    "zipCode": "29401"
+  },
+  "844": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "845": {
+    "city": "Kingston",
+    "state": "NY",
+    "zipCode": "12401"
+  },
+  "847": {
+    "city": "Arlington Heights",
+    "state": "IL",
+    "zipCode": "60004"
+  },
+  "848": {
+    "city": "Brick Township",
+    "state": "NJ",
+    "zipCode": "08723"
+  },
+  "850": {
+    "city": "Pensacola",
+    "state": "FL",
+    "zipCode": "32501"
+  },
+  "854": {
+    "city": "Charleston",
+    "state": "SC",
+    "zipCode": "29401"
+  },
+  "855": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "856": {
+    "city": "Camden",
+    "state": "NJ",
+    "zipCode": "08101"
+  },
+  "857": {
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02101"
+  },
+  "858": {
+    "city": "San Diego",
+    "state": "CA",
+    "zipCode": "92101"
+  },
+  "859": {
+    "city": "Lexington",
+    "state": "KY",
+    "zipCode": "40502"
+  },
+  "860": {
+    "city": "Bristol",
+    "state": "CT",
+    "zipCode": "06010"
+  },
+  "862": {
+    "city": "Clifton",
+    "state": "NJ",
+    "zipCode": "07011"
+  },
+  "863": {
+    "city": "Lakeland",
+    "state": "FL",
+    "zipCode": "33801"
+  },
+  "864": {
+    "city": "Greenville",
+    "state": "SC",
+    "zipCode": "29601"
+  },
+  "865": {
+    "city": "Knoxville",
+    "state": "TN",
+    "zipCode": "37901"
+  },
+  "866": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "870": {
+    "city": "Jonesboro",
+    "state": "AR",
+    "zipCode": "72401"
+  },
+  "872": {
+    "city": "Chicago",
+    "state": "IL",
+    "zipCode": "60601"
+  },
+  "877": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "878": {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zipCode": "15201"
+  },
+  "880": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "881": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "882": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "883": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "884": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "885": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "886": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "887": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "888": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "889": {
+    "city": null,
+    "state": null,
+    "zipCode": null
+  },
+  "901": {
+    "city": "Memphis",
+    "state": "TN",
+    "zipCode": "38101"
+  },
+  "903": {
+    "city": "Longview",
+    "state": "TX",
+    "zipCode": "75601"
+  },
+  "904": {
+    "city": "Jacksonville",
+    "state": "FL",
+    "zipCode": "32201"
+  },
+  "906": {
+    "city": "Sault Ste Marie",
+    "state": "MI",
+    "zipCode": "49783"
+  },
+  "907": {
+    "city": "Anchorage",
+    "state": "AK",
+    "zipCode": "99501"
+  },
+  "908": {
+    "city": "Washington Township",
+    "state": "NJ",
+    "zipCode": "07676"
+  },
+  "909": {
+    "city": "Anaheim",
+    "state": "CA",
+    "zipCode": "92801"
+  },
+  "910": {
+    "city": "Fayetteville",
+    "state": "NC",
+    "zipCode": "28301"
+  },
+  "912": {
+    "city": "Savannah",
+    "state": "GA",
+    "zipCode": "31401"
+  },
+  "913": {
+    "city": "Kansas City",
+    "state": "KS",
+    "zipCode": "66101"
+  },
+  "914": {
+    "city": "Mount Vernon",
+    "state": "NY",
+    "zipCode": "10550"
+  },
+  "915": {
+    "city": "El Paso",
+    "state": "TX",
+    "zipCode": "79901"
+  },
+  "916": {
+    "city": "Elk Grove",
+    "state": "CA",
+    "zipCode": "95624"
+  },
+  "917": {
+    "city": "New York City",
+    "state": "NY",
+    "zipCode": "10001"
+  },
+  "918": {
+    "city": "Broken Arrow",
+    "state": "OK",
+    "zipCode": "74011"
+  },
+  "919": {
+    "city": "Cary",
+    "state": "NC",
+    "zipCode": "27511"
+  },
+  "920": {
+    "city": "Appleton",
+    "state": "WI",
+    "zipCode": "54911"
+  },
+  "925": {
+    "city": "Antioch",
+    "state": "CA",
+    "zipCode": "94509"
+  },
+  "928": {
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zipCode": "86001"
+  },
+  "929": {
+    "city": "Bellerose",
+    "state": "NY",
+    "zipCode": "11426"
+  },
+  "930": {
+    "city": "Bloomington",
+    "state": "IN",
+    "zipCode": "47401"
+  },
+  "931": {
+    "city": "Clarksville",
+    "state": "TN",
+    "zipCode": "37040"
+  },
+  "934": {
+    "city": "Babylon",
+    "state": "NY",
+    "zipCode": "11702"
+  },
+  "936": {
+    "city": "Huntsville",
+    "state": "TX",
+    "zipCode": "77320"
+  },
+  "937": {
+    "city": "Dayton",
+    "state": "OH",
+    "zipCode": "45401"
+  },
+  "938": {
+    "city": "Huntsville",
+    "state": "AL",
+    "zipCode": "35801"
+  },
+  "940": {
+    "city": "Denton",
+    "state": "TX",
+    "zipCode": "76201"
+  },
+  "941": {
+    "city": "Sarasota",
+    "state": "FL",
+    "zipCode": "34230"
+  },
+  "947": {
+    "city": "Farmington Hills",
+    "state": "MI",
+    "zipCode": "48331"
+  },
+  "949": {
+    "city": "Costa Mesa",
+    "state": "CA",
+    "zipCode": "92626"
+  },
+  "951": {
+    "city": "Corona",
+    "state": "CA",
+    "zipCode": "92877"
+  },
+  "952": {
+    "city": "Bloomington",
+    "state": "MN",
+    "zipCode": "55420"
+  },
+  "954": {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zipCode": "33301"
+  },
+  "956": {
+    "city": "Laredo",
+    "state": "TX",
+    "zipCode": "78040"
+  },
+  "959": {
+    "city": "Hartford",
+    "state": "CT",
+    "zipCode": "06101"
+  },
+  "970": {
+    "city": "Durango",
+    "state": "CO",
+    "zipCode": "81301"
+  },
+  "971": {
+    "city": "Beaverton",
+    "state": "OR",
+    "zipCode": "97005"
+  },
+  "972": {
+    "city": "Carrollton",
+    "state": "TX",
+    "zipCode": "75006"
+  },
+  "973": {
+    "city": "Newark",
+    "state": "NJ",
+    "zipCode": "07101"
+  },
+  "975": {
+    "city": "Kansas City",
+    "state": "MO",
+    "zipCode": "64101"
+  },
+  "978": {
+    "city": "Haverhill",
+    "state": "MA",
+    "zipCode": "01830"
+  },
+  "979": {
+    "city": "Bryan",
+    "state": "TX",
+    "zipCode": "77801"
+  },
+  "980": {
+    "city": "Charlotte",
+    "state": "NC",
+    "zipCode": "28201"
+  },
+  "984": {
+    "city": "Raleigh",
+    "state": "NC",
+    "zipCode": "27601"
+  },
+  "985": {
+    "city": "Hammond",
+    "state": "LA",
+    "zipCode": "70401"
+  },
+  "986": {
+    "city": "Boise",
+    "state": "ID",
+    "zipCode": "83701"
+  },
+  "989": {
+    "city": "Alma",
+    "state": "MI",
+    "zipCode": "48801"
+  }
+}
