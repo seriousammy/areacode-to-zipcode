@@ -12,16 +12,27 @@ npm install areacode-to-zipcode
 
 ## Usage
 
-Import the function and use it in your TypeScript or JavaScript project:
+Import the functions and use them in your TypeScript or JavaScript project:
 
 ```typescript
-import { getZipcodeFromAreaCode } from 'areacode-to-zipcode';
+import { getZipcodeFromAreaCode, getDataFromAreaCode } from './lib';
 
 const zip = getZipcodeFromAreaCode(212); // '10024'
 console.log(zip);
+
+const data = getDataFromAreaCode(212);
+/*
+{
+  city: "New York City",
+  state: "NY",
+  zipCode: "10024",
+  country: "US"
+}
+*/
+console.log(data);
 ```
 
-If the area code is not found, the function returns `null`.
+If the area code is not found, the functions return `null`.
 
 ## API
 
@@ -29,6 +40,12 @@ If the area code is not found, the function returns `null`.
 
 - **areaCode**: The US area code as a number.
 - **Returns**: The corresponding ZIP code as a string, or `null` if not found.
+
+### `getDataFromAreaCode(areaCode: number): { city: string | null, state: string | null, zipCode: string | null, country: string | null } | null`
+
+- **areaCode**: The US area code as a number.
+- **Returns**: An object with `city`, `state`, `zipCode`, and `country` fields, or `null` if not found.
+
 
 ## Testing
 
