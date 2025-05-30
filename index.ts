@@ -5,7 +5,7 @@ export function getZipcodeFromAreaCode(areaCode: number): string | null {
     return info && info.zipCode ? info.zipCode : null;
 }
 
-export function getDataFromAreaCode(areaCode: number): { city: string | null, state: string | null, zipCode: string | null } {
-    const info = (data as Record<string, { city: string | null, state: string | null, zipCode: string | null }>)[areaCode.toString()];
-    return info;
+export function getDataFromAreaCode(areaCode: number): { city: string | null, state: string | null, zipCode: string | null, country: string | null } {
+    const info = (data as Record<string, { city: string | null, state: string | null, zipCode: string | null, country: string | null }>)[areaCode.toString()];
+    return info ?? null;
 }
