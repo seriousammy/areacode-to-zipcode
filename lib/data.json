@@ -14,6 +14,11 @@
     "state": "CT",
     "zipCode": "06604"
   },
+  "204": {
+    "city": "Winnipeg",
+    "state": "MB",
+    "zipCode": "R2C0A5"
+  },
   "205": {
     "city": "Birmingham",
     "state": "AL",
@@ -104,6 +109,11 @@
     "state": "LA",
     "zipCode": "70801"
   },
+  "226": {
+    "city": "London",
+    "state": "ON",
+    "zipCode": "N5V0A2"
+  },
   "227": {
     "city": "Silver Spring",
     "state": "MD",
@@ -129,6 +139,16 @@
     "state": "OH",
     "zipCode": "44301"
   },
+  "235": {
+    "city": "Columbia",
+    "state": "MO",
+    "zipCode": "65211"
+  },
+  "236": {
+    "city": "Victoria",
+    "state": "BC",
+    "zipCode": "V8P5N3"
+  },
   "239": {
     "city": "Cape Coral",
     "state": "FL",
@@ -143,6 +163,16 @@
     "city": "Farmington Hills",
     "state": "MI",
     "zipCode": "48331"
+  },
+  "249": {
+    "city": "Sudbury",
+    "state": "ON",
+    "zipCode": "P3A0A4"
+  },
+  "250": {
+    "city": "Victoria",
+    "state": "BC",
+    "zipCode": "V8P5N3"
   },
   "251": {
     "city": "Mobile",
@@ -169,6 +199,11 @@
     "state": "AL",
     "zipCode": "35601"
   },
+  "257": {
+    "city": "Vancouver",
+    "state": "BC",
+    "zipCode": "V6B4Y8"
+  },
   "260": {
     "city": "Fort Wayne",
     "state": "IN",
@@ -178,6 +213,11 @@
     "city": "Kenosha",
     "state": "WI",
     "zipCode": "53140"
+  },
+  "263": {
+    "city": "Montreal",
+    "state": "QC",
+    "zipCode": "H2W1K4"
   },
   "267": {
     "city": "Levittown",
@@ -210,7 +250,7 @@
     "zipCode": "24540"
   },
   "278": {
-    "city": "ann arbor",
+    "city": "Ann Arbor",
     "state": "MI",
     "zipCode": "48103"
   },
@@ -228,6 +268,11 @@
     "city": "Cincinnati",
     "state": "OH",
     "zipCode": "45201"
+  },
+  "289": {
+    "city": "Mississauga",
+    "state": "ON",
+    "zipCode": "L4T0A2"
   },
   "301": {
     "city": "Aspen Hill",
@@ -253,6 +298,11 @@
     "city": "Miami",
     "state": "FL",
     "zipCode": "33101"
+  },
+  "306": {
+    "city": "Regina",
+    "state": "SK",
+    "zipCode": "S4T3N1"
   },
   "307": {
     "city": "Casper",
@@ -329,6 +379,11 @@
     "state": "CA",
     "zipCode": "90001"
   },
+  "324": {
+    "city": "Jacksonville",
+    "state": "FL",
+    "zipCode": "32201"
+  },
   "325": {
     "city": "Abilene",
     "state": "TX",
@@ -343,6 +398,11 @@
     "city": "Jonesboro",
     "state": "AR",
     "zipCode": "72401"
+  },
+  "329": {
+    "city": "Kingston",
+    "state": "NY",
+    "zipCode": "12401"
   },
   "330": {
     "city": "Akron",
@@ -380,7 +440,7 @@
     "zipCode": "01901"
   },
   "340": {
-    "city": "charlotte amalie",
+    "city": "Charlotte Amalie",
     "state": "VI",
     "zipCode": "00802"
   },
@@ -388,6 +448,11 @@
     "city": "Oakland",
     "state": "CA",
     "zipCode": "94601"
+  },
+  "343": {
+    "city": "Ottawa",
+    "state": "ON",
+    "zipCode": "K2V1A4"
   },
   "346": {
     "city": "Alvin",
@@ -399,6 +464,11 @@
     "state": "NY",
     "zipCode": "10451"
   },
+  "350": {
+    "city": "Lodi",
+    "state": "CA",
+    "zipCode": "95240"
+  },
   "351": {
     "city": "Haverhill",
     "state": "MA",
@@ -408,6 +478,16 @@
     "city": "Gainesville",
     "state": "FL",
     "zipCode": "32601"
+  },
+  "354": {
+    "city": "Granby",
+    "state": "QC",
+    "zipCode": "J2G0A2"
+  },
+  "357": {
+    "city": "Clovis",
+    "state": "CA",
+    "zipCode": "93611"
   },
   "360": {
     "city": "Bellingham",
@@ -419,10 +499,30 @@
     "state": "TX",
     "zipCode": "78401"
   },
+  "363": {
+    "city": "Freeport",
+    "state": "NY",
+    "zipCode": "11520"
+  },
   "364": {
     "city": "Owensboro",
     "state": "KY",
     "zipCode": "42301"
+  },
+  "365": {
+    "city": "Mississauga",
+    "state": "ON",
+    "zipCode": "L4T0A2"
+  },
+  "367": {
+    "city": "Saguenay",
+    "state": "QC",
+    "zipCode": "G0W1Z0"
+  },
+  "368": {
+    "city": "Edmonton",
+    "state": "AB",
+    "zipCode": "T5J0H6"
   },
   "369": {
     "city": "santa rosa",
@@ -433,6 +533,11 @@
     "city": "Columbus",
     "state": "OH",
     "zipCode": "43215"
+  },
+  "382": {
+    "city": "London",
+    "state": "ON",
+    "zipCode": "N5V0A2"
   },
   "385": {
     "city": "Ogden",
@@ -453,6 +558,11 @@
     "city": "Columbus",
     "state": "NE",
     "zipCode": "68601"
+  },
+  "403": {
+    "city": "Calgary",
+    "state": "AB",
+    "zipCode": "T2G2W1"
   },
   "404": {
     "city": "Atlanta",
@@ -509,10 +619,20 @@
     "state": "CA",
     "zipCode": "94101"
   },
+  "416": {
+    "city": "Toronto",
+    "state": "ON",
+    "zipCode": "M3C1E6"
+  },
   "417": {
     "city": "Springfield",
     "state": "MO",
     "zipCode": "65801"
+  },
+  "418": {
+    "city": "Saguenay",
+    "state": "QC",
+    "zipCode": "G0W1Z0"
   },
   "419": {
     "city": "Toledo",
@@ -534,10 +654,20 @@
     "state": "WA",
     "zipCode": "98004"
   },
+  "428": {
+    "city": "Prince William",
+    "state": "NB",
+    "zipCode": "E6K0A5"
+  },
   "430": {
     "city": "Longview",
     "state": "TX",
     "zipCode": "75601"
+  },
+  "431": {
+    "city": "Winnipeg",
+    "state": "MB",
+    "zipCode": "R2C0A5"
   },
   "432": {
     "city": "Midland",
@@ -553,6 +683,21 @@
     "city": "Cedar City",
     "state": "UT",
     "zipCode": "84720"
+  },
+  "436": {
+    "city": "Cleveland",
+    "state": "OH",
+    "zipCode": "44101"
+  },
+  "437": {
+    "city": "Toronto",
+    "state": "ON",
+    "zipCode": "M3C1E6"
+  },
+  "438": {
+    "city": "Montreal",
+    "state": "QC",
+    "zipCode": "H2W1K4"
   },
   "440": {
     "city": "Cleveland",
@@ -579,6 +724,21 @@
     "state": "IL",
     "zipCode": "61820"
   },
+  "448": {
+    "city": "Pensacola",
+    "state": "FL",
+    "zipCode": "32501"
+  },
+  "450": {
+    "city": "Granby",
+    "state": "QC",
+    "zipCode": "J2G0A2"
+  },
+  "457": {
+    "city": "Bossier City",
+    "state": "LA",
+    "zipCode": "71111"
+  },
   "458": {
     "city": "Eugene",
     "state": "OR",
@@ -594,6 +754,11 @@
     "state": "IL",
     "zipCode": "60804"
   },
+  "468": {
+    "city": "Sherbrooke",
+    "state": "QC",
+    "zipCode": "J1C0A6"
+  },
   "469": {
     "city": "Carrollton",
     "state": "TX",
@@ -603,6 +768,16 @@
     "city": "Atlanta",
     "state": "GA",
     "zipCode": "30301"
+  },
+  "472": {
+    "city": "Fayetteville",
+    "state": "NC",
+    "zipCode": "28301"
+  },
+  "474": {
+    "city": "Regina",
+    "state": "SK",
+    "zipCode": "S4T3N1"
   },
   "475": {
     "city": "Bridgeport",
@@ -623,6 +798,11 @@
     "city": "Chandler",
     "state": "AZ",
     "zipCode": "85224"
+  },
+  "483": {
+    "city": "Auburn",
+    "state": "AL",
+    "zipCode": "36830"
   },
   "484": {
     "city": "Allentown",
@@ -654,6 +834,11 @@
     "state": "NM",
     "zipCode": "87101"
   },
+  "506": {
+    "city": "Prince William",
+    "state": "NB",
+    "zipCode": "E6K0A5"
+  },
   "507": {
     "city": "Austin",
     "state": "MN",
@@ -684,6 +869,11 @@
     "state": "OH",
     "zipCode": "45201"
   },
+  "514": {
+    "city": "Montreal",
+    "state": "QC",
+    "zipCode": "H2W1K4"
+  },
   "515": {
     "city": "Ames",
     "state": "IA",
@@ -703,6 +893,11 @@
     "city": "Albany",
     "state": "NY",
     "zipCode": "12201"
+  },
+  "519": {
+    "city": "London",
+    "state": "ON",
+    "zipCode": "N5V0A2"
   },
   "520": {
     "city": "Casas Adobes",
@@ -738,6 +933,11 @@
     "city": "Bend",
     "state": "OR",
     "zipCode": "97701"
+  },
+  "548": {
+    "city": "London",
+    "state": "ON",
+    "zipCode": "N5V0A2"
   },
   "551": {
     "city": "Bayonne",
@@ -804,10 +1004,30 @@
     "state": "NM",
     "zipCode": "88310"
   },
+  "579": {
+    "city": "Granby",
+    "state": "QC",
+    "zipCode": "J2G0A2"
+  },
   "580": {
     "city": "Lawton",
     "state": "OK",
     "zipCode": "73501"
+  },
+  "581": {
+    "city": "Saguenay",
+    "state": "QC",
+    "zipCode": "G0W1Z0"
+  },
+  "582": {
+    "city": "Erie",
+    "state": "PA",
+    "zipCode": "16501"
+  },
+  "584": {
+    "city": "Winnipeg",
+    "state": "MB",
+    "zipCode": "R2C0A5"
   },
   "585": {
     "city": "Arcade",
@@ -818,6 +1038,11 @@
     "city": "Sterling Heights",
     "state": "MI",
     "zipCode": "48310"
+  },
+  "587": {
+    "city": "Edmonton",
+    "state": "AB",
+    "zipCode": "T5J0H6"
   },
   "601": {
     "city": "Hattiesburg",
@@ -833,6 +1058,11 @@
     "city": "Dover",
     "state": "NH",
     "zipCode": "03820"
+  },
+  "604": {
+    "city": "Vancouver",
+    "state": "BC",
+    "zipCode": "V6B4Y8"
   },
   "605": {
     "city": "Rapid City",
@@ -869,6 +1099,11 @@
     "state": "MN",
     "zipCode": "55401"
   },
+  "613": {
+    "city": "Ottawa",
+    "state": "ON",
+    "zipCode": "K2V1A4"
+  },
   "614": {
     "city": "Columbus",
     "state": "OH",
@@ -904,10 +1139,20 @@
     "state": "KS",
     "zipCode": "67801"
   },
+  "621": {
+    "city": "Houston",
+    "state": "TX",
+    "zipCode": "77001"
+  },
   "623": {
     "city": "Phoenix",
     "state": "AZ",
     "zipCode": "85001"
+  },
+  "624": {
+    "city": "Cattaraugus",
+    "state": "NY",
+    "zipCode": "14719"
   },
   "626": {
     "city": "Alhambra",
@@ -915,7 +1160,7 @@
     "zipCode": "91801"
   },
   "627": {
-    "city": "santa rosa",
+    "city": "Santa Rosa",
     "state": "CA",
     "zipCode": "95401"
   },
@@ -944,6 +1189,11 @@
     "state": "MO",
     "zipCode": "63301"
   },
+  "639": {
+    "city": "Regina",
+    "state": "SK",
+    "zipCode": "S4T3N1"
+  },
   "640": {
     "city": "Allentown",
     "state": "NJ",
@@ -954,10 +1204,20 @@
     "state": "IA",
     "zipCode": "50401"
   },
+  "645": {
+    "city": "Miami",
+    "state": "FL",
+    "zipCode": "33101"
+  },
   "646": {
     "city": "New York City",
     "state": "NY",
     "zipCode": "10001"
+  },
+  "647": {
+    "city": "Toronto",
+    "state": "ON",
+    "zipCode": "M3C1E6"
   },
   "650": {
     "city": "Daly City",
@@ -968,6 +1228,11 @@
     "city": "St. Paul",
     "state": "MN",
     "zipCode": "55101"
+  },
+  "656": {
+    "city": "Tampa",
+    "state": "FL",
+    "zipCode": "33601"
   },
   "657": {
     "city": "Anaheim",
@@ -1014,6 +1279,11 @@
     "state": "GU",
     "zipCode": "96910"
   },
+  "672": {
+    "city": "Vancouver",
+    "state": "BC",
+    "zipCode": "V6B4Y8"
+  },
   "678": {
     "city": "Atlanta",
     "state": "GA",
@@ -1039,10 +1309,20 @@
     "state": "TX",
     "zipCode": "76010"
   },
+  "683": {
+    "city": "Sudbury",
+    "state": "ON",
+    "zipCode": "P3A0A4"
+  },
   "684": {
     "city": "Pago Pago",
     "state": "AS",
     "zipCode": "96799"
+  },
+  "686": {
+    "city": "Mechanicsville",
+    "state": "VA",
+    "zipCode": "23111"
   },
   "689": {
     "city": "Orlando",
@@ -1069,6 +1349,11 @@
     "state": "NC",
     "zipCode": "28202"
   },
+  "705": {
+    "city": "Sudbury",
+    "state": "ON",
+    "zipCode": "P3A0A4"
+  },
   "706": {
     "city": "Athens",
     "state": "GA",
@@ -1083,6 +1368,11 @@
     "city": "Berwyn",
     "state": "IL",
     "zipCode": "60402"
+  },
+  "709": {
+    "city": "St. John's",
+    "state": "NL",
+    "zipCode": "A1E1T2"
   },
   "712": {
     "city": "Council Bluffs",
@@ -1149,6 +1439,16 @@
     "state": "FL",
     "zipCode": "33755"
   },
+  "728": {
+    "city": "Boca Raton",
+    "state": "FL",
+    "zipCode": "33431"
+  },
+  "729": {
+    "city": "Chattanooga",
+    "state": "TN",
+    "zipCode": "37401"
+  },
   "730": {
     "city": "Alton",
     "state": "IL",
@@ -1174,10 +1474,20 @@
     "state": "TX",
     "zipCode": "73301"
   },
+  "738": {
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90015"
+  },
   "740": {
     "city": "Athens",
     "state": "OH",
     "zipCode": "45701"
+  },
+  "742": {
+    "city": "Mississauga",
+    "state": "ON",
+    "zipCode": "L4T0A2"
   },
   "743": {
     "city": "Greensboro",
@@ -1188,6 +1498,16 @@
     "city": "Burbank",
     "state": "CA",
     "zipCode": "91501"
+  },
+  "748": {
+    "city": "Durango",
+    "state": "CO",
+    "zipCode": "81301"
+  },
+  "753": {
+    "city": "Ottawa",
+    "state": "ON",
+    "zipCode": "K2V1A4"
   },
   "754": {
     "city": "Coral Springs",
@@ -1229,6 +1549,11 @@
     "state": "GA",
     "zipCode": "30301"
   },
+  "771": {
+    "city": "Washington",
+    "state": "DC",
+    "zipCode": "20001"
+  },
   "772": {
     "city": "Port St. Lucie",
     "state": "FL",
@@ -1249,15 +1574,30 @@
     "state": "NV",
     "zipCode": "89701"
   },
+  "778": {
+    "city": "Victoria",
+    "state": "BC",
+    "zipCode": "V8P5N3"
+  },
   "779": {
     "city": "Joliet",
     "state": "IL",
     "zipCode": "60431"
   },
+  "780": {
+    "city": "Edmonton",
+    "state": "AB",
+    "zipCode": "T5J0H6"
+  },
   "781": {
     "city": "Lynn",
     "state": "MA",
     "zipCode": "01901"
+  },
+  "782": {
+    "city": "Halifax",
+    "state": "NS",
+    "zipCode": "B3H0A4"
   },
   "785": {
     "city": "Abilene",
@@ -1304,6 +1644,11 @@
     "state": "TX",
     "zipCode": "79101"
   },
+  "807": {
+    "city": "Kenora",
+    "state": "ON",
+    "zipCode": "P9N0A3"
+  },
   "808": {
     "city": "Honolulu",
     "state": "HI",
@@ -1349,15 +1694,35 @@
     "state": "CA",
     "zipCode": "91301"
   },
+  "819": {
+    "city": "Sherbrooke",
+    "state": "QC",
+    "zipCode": "J1C0A6"
+  },
   "820": {
     "city": "Camarillo",
     "state": "CA",
     "zipCode": "93010"
   },
+  "821": {
+    "city": "Greenville",
+    "state": "SC",
+    "zipCode": "29601"
+  },
   "822": {
     "city": null,
     "state": null,
     "zipCode": null
+  },
+  "825": {
+    "city": "Edmonton",
+    "state": "AB",
+    "zipCode": "T5J0H6"
+  },
+  "826": {
+    "city": "Blacksburg",
+    "state": "VA",
+    "zipCode": "24060"
   },
   "828": {
     "city": "Asheville",
@@ -1384,6 +1749,16 @@
     "state": null,
     "zipCode": null
   },
+  "835": {
+    "city": "Allentown",
+    "state": "PA",
+    "zipCode": "18101"
+  },
+  "837": {
+    "city": "Chico",
+    "state": "CA",
+    "zipCode": "95926"
+  },
   "838": {
     "city": "Albany",
     "state": "NY",
@@ -1393,6 +1768,11 @@
     "city": "Columbia",
     "state": "SC",
     "zipCode": "29201"
+  },
+  "840": {
+    "city": "Anaheim",
+    "state": "CA",
+    "zipCode": "92801"
   },
   "843": {
     "city": "Charleston",
@@ -1459,6 +1839,11 @@
     "state": "CT",
     "zipCode": "06010"
   },
+  "861": {
+    "city": "Bloomington",
+    "state": "IL",
+    "zipCode": "61701"
+  },
   "862": {
     "city": "Clifton",
     "state": "NJ",
@@ -1484,6 +1869,11 @@
     "state": null,
     "zipCode": null
   },
+  "867": {
+    "city": "Whitehorse",
+    "state": "YT",
+    "zipCode": "Y1A0A4"
+  },
   "870": {
     "city": "Jonesboro",
     "state": "AR",
@@ -1494,6 +1884,11 @@
     "state": "IL",
     "zipCode": "60601"
   },
+  "873": {
+    "city": "Sherbrooke",
+    "state": "QC",
+    "zipCode": "J1C0A6"
+  },
   "877": {
     "city": null,
     "state": null,
@@ -1503,6 +1898,11 @@
     "city": "Pittsburgh",
     "state": "PA",
     "zipCode": "15201"
+  },
+  "879": {
+    "city": "St. John's",
+    "state": "NL",
+    "zipCode": "A1E1T2"
   },
   "880": {
     "city": null,
@@ -1559,6 +1959,11 @@
     "state": "TN",
     "zipCode": "38101"
   },
+  "902": {
+    "city": "Halifax",
+    "state": "NS",
+    "zipCode": "B3H0A4"
+  },
   "903": {
     "city": "Longview",
     "state": "TX",
@@ -1568,6 +1973,11 @@
     "city": "Jacksonville",
     "state": "FL",
     "zipCode": "32201"
+  },
+  "905": {
+    "city": "Mississauga",
+    "state": "ON",
+    "zipCode": "L4T0A2"
   },
   "906": {
     "city": "Sault Ste Marie",
@@ -1639,6 +2049,11 @@
     "state": "WI",
     "zipCode": "54911"
   },
+  "924": {
+    "city": "Austin",
+    "state": "MN",
+    "zipCode": "55912"
+  },
   "925": {
     "city": "Antioch",
     "state": "CA",
@@ -1694,10 +2109,30 @@
     "state": "FL",
     "zipCode": "34230"
   },
+  "942": {
+    "city": "Toronto",
+    "state": "ON",
+    "zipCode": "M3C1E6"
+  },
+  "943": {
+    "city": "Atlanta",
+    "state": "GA",
+    "zipCode": "30301"
+  },
+  "945": {
+    "city": "Dallas",
+    "state": "TX",
+    "zipCode": "75201"
+  },
   "947": {
     "city": "Farmington Hills",
     "state": "MI",
     "zipCode": "48331"
+  },
+  "948": {
+    "city": "Chesapeake",
+    "state": "VA",
+    "zipCode": "23320"
   },
   "949": {
     "city": "Costa Mesa",
@@ -1768,6 +2203,11 @@
     "city": "Charlotte",
     "state": "NC",
     "zipCode": "28201"
+  },
+  "983": {
+    "city": "Aurora",
+    "state": "CO",
+    "zipCode": "80010"
   },
   "984": {
     "city": "Raleigh",
