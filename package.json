@@ -1,6 +1,6 @@
 {
   "name": "areacode-to-zipcode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Translate area codes to zip codes. A utility for looking up postal codes in the US.",
   "main": "index.ts",
   "scripts": {
