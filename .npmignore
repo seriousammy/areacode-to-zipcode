@@ -1,0 +1,4 @@
+[tsconfig.json](http://_vscodecontentref_/2)
+*.ts
+tests/
+jest.config.*
